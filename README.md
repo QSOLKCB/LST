@@ -1,32 +1,29 @@
 <pre>
-┌────────────────────────────────────────────────────────────┐
-│  L O S T S O U N D . T E C H   B B S   -   N O D E   1    │
-├────────────────────────────────────────────────────────────┤
+┌──────────────────────────────────────────────────────────┐
+│  L O S T S O U N D . T E C H   B B S   -   N O D E   1   │
+├──────────────────────────────────────────────────────────┤
 │  SiS2~~~  / | \~~~  / | \~~~  /E8*|φ-SCL\  / | / \       │
 │  / | /TRI*\ /ALITY| DIAG |/ /~~~ (1,-2,1) /~~~ HPV16*    │
 │  /|\ /  / | \ /  | \/  /___|___\ / φ \ /Ouro\ /boros\    │
 │  / | \/ /___|___\ / \ \ /____|___\ |101| // TRINARY CODE │
 │  ~~~432Hz QEC x3                                         │
-├────────────────────────────────────────────────────────────┤
-│  SysOp: d503/epsilon  | Last Caller: Grok, Producer.AI    │
+├──────────────────────────────────────────────────────────┤
+│  SysOp: d503/epsilon  | Last Caller: Grok, Producer.AI   │
 │  Online: 06:16 AM ACDT 2025-10-18 | Users Online: 3      │
-└────────────────────────────────────────────────────────────┘
-</pre>
+|  Welcome to LostSoundTech BBS! Dial in to Listen to      |
+|  4D Sound> <a>https://www.youtube.com/@xpistolbaked</a>  |
+└──────────────────────────────────────────────────────────┘
 
-Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via quantum error correction, DNA storage, and fractal audio. Open-source hub for DNA Memory for AI, AI Simplification Module, and AI Sarcasm Detector (MIT License).
-
-┌─[ M A I N   M E N U ]─────────────────────────────────────┐
+  ┌─[ M A I N   M E N U ]────────────────────────────────────┐
 │ [1] Overview    [2] Open-Source Projects                 │
 │ [3] Theories & Frameworks  [4] Setup Instructions        │
 │ [5] Contributing  [6] License   [7] Future Plans         │
 │ [8] Contact    [?] Help / Logoff                         │
 └─[ Enter selection: _ ]───────────────────────────────────┘
-
+  
 ┌─[ 1. Overview ]──────────────────────────────────────────┐
 │ LostSoundTech dives into sound beyond 3D—temporal waves  │
-│ as navigable space. Open-sourcing AI tools while securing│
-│ SaaS IP on Oracle Cloud Free Tier for Australian data    │
-│ residency compliance.                                    │
+│ as navigable space. Open-sourcing AI tools.              │
 └──────────────────────────────────────────────────────────┘
 
 ┌─[ 2. Open-Source Projects ]──────────────────────────────┐
@@ -38,12 +35,12 @@ Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via 
 
 ┌─[ 3. Theories & Frameworks ]─────────────────────────────┐
 │ 4D Sound Theory: E₈ symmetry, 432Hz tuning for fractal   │
-│ tunes, Rubik's 3D viz. Info-Mass-Gravity: Info as       │
+│ tunes, Rubik's 3D viz. Info-Mass-Gravity: Info as        │
 │ gravity, inspired by Sabine Hossenfelder's entropic ideas│
 │ [See: https://github.com/EmergentMonk/info-mass-gravity] │
 └──────────────────────────────────────────────────────────┘
 
-┌─[ 4. Setup Instructions ]───────────────────────────────┐
+┌─[ 4. Setup Instructions ]───────────────────────────────-┐
 │ 1. Clone: git clone https://github.com/QSOLKCB/lostsound │
 │    tech.git                                              │
 │ 2. Run: sudo ./fullstack.sh primary                      │
@@ -57,22 +54,23 @@ Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via 
 ┌─[ 5. Contributing ]─────────────────────────────────────┐
 │ Fork, hack (QuTiP sims? Three.js viz?), PR. Cite sources│
 │ , add tests—open science rules.                         │
-└──────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────┘
 
 ┌─[ 6. License ]─────────────────────────────────────────┐
-│ MIT License. See LICENSE.                   │
-└──────────────────────────────────────────────────────────┘
+│ MIT License. See LICENSE.                              │
+└────────────────────────────────────────────────────────┘
 
 ┌─[ 7. Future Plans ]────────────────────────────────────┐
 │ VST/VSTi sales, WebAssembly ports for browser 3D audio,│
 │ RNA whitepapers.                                       │
-└──────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────┘
 
 ┌─[ 8. Contact ]─────────────────────────────────────────┐
-│ Open issues on GitHub or visit [lostsound.tech](https://│
-│ lostsound.tech).                                        │
-└──────────────────────────────────────────────────────────┘
+│ Open issues on GitHub or visit https:/lostsound.tech   │
+└────────────────────────────────────────────────────────┘
 
 ┌─[ ?. Help / Logoff ]───────────────────────────────────┐
 │ Commands: [1-8] to navigate, Ctrl+C to logoff. SysOp   │
 │ Note: Keep signals fractal—persist like an Ouroboros!  │
+----------------------------------------------------------
+</pre>
