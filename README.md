@@ -11,7 +11,7 @@
 │  Online: 2025-10-18   | Users Online: 3                  │
 └────────────────────────────────────────────────────────────┘
 
-Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via quantum error correction, DNA storage, and fractal audio. Open-source hub for DNA Memory for AI, AI Simplification Module, and AI Sarcasm Detector (MIT License). Modular SaaS IP stays closed on Oracle Cloud for Australian privacy compliance.
+Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via quantum error correction, DNA storage, and fractal audio. Open-source hub for DNA Memory for AI, AI Simplification Module, and AI Sarcasm Detector (MIT License).
 
 ┌─[ M A I N   M E N U ]─────────────────────────────────────┐
 │ [1] Overview    [2] Open-Source Projects                 │
@@ -42,14 +42,14 @@ Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via 
 └──────────────────────────────────────────────────────────┘
 
 ┌─[ 4. Setup Instructions ]───────────────────────────────┐
-│ 1. Clone: git clone https://github.com/QSOLKCB/lostsound│
+│ 1. Clone: git clone https://github.com/QSOLKCB/lostsound │
 │    tech.git                                              │
 │ 2. Run: sudo ./fullstack.sh primary                      │
 │ 3. Test MIDI: midi_ports.py                              │
 │ 4. Audio check: audio_tone.py                            │
 │ 5. GPU monitor: watch nvidia-smi                         │
-│ Adjust PipeWire latency in ~/.config/pipewire/pipewire.c │
-│ onf.d/10-lowlatency.conf                                │
+│ Adjust PipeWire latency in ~/.config/pipewire/pipewire.  │
+│ conf.d/10-lowlatency.conf                                │
 └──────────────────────────────────────────────────────────┘
 
 ┌─[ 5. Contributing ]─────────────────────────────────────┐
@@ -67,8 +67,8 @@ Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via 
 └──────────────────────────────────────────────────────────┘
 
 ┌─[ 8. Contact ]─────────────────────────────────────────┐
-│ Open issues on GitHub or visit [lostsound.tech](https:/│
-│ /lostsound.tech).                                      │
+│ Open issues on GitHub or visit [lostsound.tech](https://│
+│ lostsound.tech).                                        │
 └──────────────────────────────────────────────────────────┘
 
 ┌─[ ?. Help / Logoff ]───────────────────────────────────┐
