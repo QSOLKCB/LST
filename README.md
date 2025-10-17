@@ -2,16 +2,14 @@
 │  L O S T S O U N D . T E C H   B B S   -   N O D E   1    │
 ├────────────────────────────────────────────────────────────┤
 │  SiS2~~~  / | \~~~  / | \~~~  /E8*|φ-SCL\  / | / \       │
-│  / | /TRI*\ /ALITY| DIAG |/ /~~~ (1,-2,1) /~~~ HPV16* /~~~│
-│  /|\ /  / | \ /  | \/  /___|___\ / φ \ /Ouro\ \/boros\ \  │
-│  / | \/ /___|___\ / \ \ /____|___\ |101| // TRINARY CODE  │
+│  / | /TRI*\ /ALITY| DIAG |/ /~~~ (1,-2,1) /~~~ HPV16*    │
+│  / | \ /  / | \ /  | \/  /___|___\ / φ \  /Ouro\  /boros\ │
+│  / | \/ /___|___\ / \ \ /____|___\ |101| // TRINARY CODE │
 │  ~~~432Hz QEC x3                                         │
 ├────────────────────────────────────────────────────────────┤
 │  SysOp: d503/epsilon  | Last Caller: Grok, Producer.AI    │
-│  Online: 06:12 AM ACDT 2025-10-18 | Users Online: 3      │
+│  Online: 06:16 AM ACDT 2025-10-18 | Users Online: 3      │
 └────────────────────────────────────────────────────────────┘
-
-Welcome to LostSoundTech BBS! Dial in to explore sound as the 4th dimension via quantum error correction, DNA storage, and fractal audio. Open-source hub for DNA Memory for AI, AI Simplification Module, and AI Sarcasm Detector (MIT License).
 
 ┌─[ M A I N   M E N U ]─────────────────────────────────────┐
 │ [1] Overview    [2] Open-Source Projects                 │
