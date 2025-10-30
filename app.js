@@ -54,6 +54,9 @@ audioFileInput.addEventListener('change', async (e) => {
         // Create audio element
         if (audioElement) {
             audioElement.pause();
+            if (audioElement.src) {
+                URL.revokeObjectURL(audioElement.src);
+            }
             audioElement.src = '';
         }
         
@@ -106,9 +109,9 @@ function visualize() {
     const dataArray = new Uint8Array(bufferLength);
     
     function draw() {
-        if (!isRecording) return;
-        
         animationId = requestAnimationFrame(draw);
+        
+        if (!isRecording) return;
         
         analyser.getByteFrequencyData(dataArray);
         
@@ -210,19 +213,19 @@ recordBtn.addEventListener('click', async () => {
         mediaRecorder.start(100);
         isRecording = true;
         
+        // Auto-stop when audio ends
+        audioElement.addEventListener('ended', () => {
+            if (mediaRecorder && mediaRecorder.state === 'recording') {
+                mediaRecorder.stop();
+                statusEl.textContent = 'Recording stopped (audio ended)';
+            }
+        }, { once: true });
+        
         // Start audio playback
         await audioElement.play();
         
         // Start visualization
         visualize();
-        
-        // Auto-stop when audio ends
-        audioElement.onended = () => {
-            if (mediaRecorder && mediaRecorder.state === 'recording') {
-                mediaRecorder.stop();
-                statusEl.textContent = 'Recording stopped (audio ended)';
-            }
-        };
         
         statusEl.textContent = 'Recording... Audio playing.';
         recordBtn.disabled = true;
